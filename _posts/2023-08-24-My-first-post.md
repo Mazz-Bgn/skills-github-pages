@@ -1,5 +1,5 @@
 ---
-title: My fist post
+title: My first post
 date: 2023-08-24
 ---
 
